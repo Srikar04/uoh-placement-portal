@@ -1,7 +1,7 @@
-# 🎓 Placement Management System
+# 🎓 UOH Placement Portal
 
 ## Introduction
-The Placement Management System aims to streamline the recruitment process for students and facilitate efficient management of job placements within the university. The primary purpose of this system is to provide a centralized platform where students can create profiles, view job opportunities, and apply for positions.
+The Uoh Placement Portal aims to streamline the recruitment process for students and facilitate efficient management of job placements within the university. The primary purpose of this system is to provide a centralized platform where students can create profiles, view job opportunities, and apply for positions.
 
 ## Features
 - **👤 Student Profile Management**: Create and maintain profiles, explore job opportunities, and apply for positions.
