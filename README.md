@@ -1,13 +1,17 @@
 # 🎓 UOH Placement Portal
 
 ## Introduction
-The Uoh Placement Portal aims to streamline the recruitment process for students and facilitate efficient management of job placements within the university. The primary purpose of this system is to provide a centralized platform where students can create profiles, view job opportunities, and apply for positions.
+The Uoh Placement Portal provides a centralized platform for streamlining university recruitment. It
+offers user-friendly interfaces for students to explore job opportunities, co-ordinators to manage applications, and
+administrators to generate reports. Designed with reliability, availability, security, maintainability, and portability
+in mind, it addresses critical aspects of the recruitment process, fostering seamless interactions and informed
+placements.
 
 ## Features
-- **👤 Student Profile Management**: Create and maintain profiles, explore job opportunities, and apply for positions.
+- **👤 Streamlined Placement Process**: Enhances overall efficiency.
 - **📋 Job Opportunity Management**: Post job openings, manage applications, and track applicant details.
-- **📄 Offer Letter Management**: Upload and store offer letters.
-- **📊 Reporting and Analytics**: Generate comprehensive reports and statistics.
+- **📄 Enhanced Recruiter Experience**: Attract more organizations/companies to the university's placement drives.
+- **📊 Data-Driven Decision-Making**: Comprehensive reporting and analytics capabilities.
 
 ## Tech Stack
 - **Frontend**: JavaScript, AJAX, Chart.js, jQuery, HTML, CSS, Tailwind CSS
@@ -21,7 +25,6 @@ The Uoh Placement Portal aims to streamline the recruitment process for students
 
 ### Deployment
 The webapp will hosted on a Server soon.
-add emojis to it
 
 ## Screenshots
 
