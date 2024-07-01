@@ -1,7 +1,8 @@
 # 🎓 UOH Placement Portal
 
 ### Deployment
-http://13.234.199.200:8080/PMS/homePage.jsp
+http://13.234.199.200:8080/PMS
+
 The app is deployed on AWS EC2 instance with an elastic IP address.
 
 ## Introduction
