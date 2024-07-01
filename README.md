@@ -1,5 +1,9 @@
 # 🎓 UOH Placement Portal
 
+### Deployment
+http://13.234.199.200:8080/PMS/homePage.jsp
+The app is deployed on AWS EC2 instance with an elastic IP address.
+
 ## Introduction
 The Uoh Placement Portal provides a centralized platform for streamlining university recruitment. It
 offers user-friendly interfaces for students to explore job opportunities, co-ordinators to manage applications, and
@@ -23,8 +27,6 @@ placements.
 - 🐱 Apache Tomcat 9 or higher
 - 🐬 MySQL 8.0 or higher
 
-### Deployment
-The webapp will hosted on a Server soon.
 
 ## Screenshots
 
